@@ -4,8 +4,8 @@ This is a simple website for Web Technologies Assignment 2.
 
 Before submitting, add your name and group:
 
-- Student: Your full name
-- Group: Your group
+- Student: NIYALOV YERKEBULAN
+- Group: SE 2526
 
 ## Files
 
